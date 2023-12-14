@@ -35,3 +35,6 @@ svd,
 terasort,
 word2vec,
 wordcount
+
+So an example would be:
+python3 get_best_VM.py wordcount 1

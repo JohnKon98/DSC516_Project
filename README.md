@@ -37,4 +37,5 @@ word2vec,
 wordcount
 
 So an example would be:
-python3 get_best_VM.py wordcount 1
+
+1. python3 get_best_VM.py wordcount 1
